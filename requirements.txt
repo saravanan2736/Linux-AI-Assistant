@@ -1,0 +1,7 @@
+torch
+transformers
+peft
+datasets==2.18.0
+accelerate
+sentencepiece
+gradio
