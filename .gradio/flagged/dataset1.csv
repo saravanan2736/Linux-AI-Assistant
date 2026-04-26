@@ -1,0 +1,5 @@
+user_input,output,timestamp
+How to check disk usage in Linux?,"# check disk usage in Linux
+# using 'df' and '-h' command
+
+df -h",2026-04-26 04:21:21.900706
